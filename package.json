@@ -1,0 +1,32 @@
+{
+  "name": "yu-cli",
+  "version": "1.0.0",
+  "description": "vue + webpack4 demo",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CN-kicoyu/yus-cli.git"
+  },
+  "keywords": [
+    "CLI",
+    "webpack4",
+    "vue"
+  ],
+  "main": "index.js",
+  "bin": {
+    "yu": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liyuan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.0.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0"
+  }
+}
