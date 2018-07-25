@@ -1,10 +1,10 @@
 {
   "name": "yu-cli",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "vue + webpack4 demo",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/CN-kicoyu/yus-cli.git"
+    "url": "git+ssh://git@github.com:amazinglisa/yu-cli.git"
   },
   "keywords": [
     "CLI",

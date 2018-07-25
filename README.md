@@ -11,7 +11,7 @@ $ npm install -g yu-cli
 ### 如何使用？
 
 ``` bash
-$ yus init <project-name>
+$ yu init <project-name>
 ```
 
 样例:
@@ -19,3 +19,5 @@ $ yus init <project-name>
 ``` bash
 $ yu init my-project
 ```
+
+[项目运行文档点击这里](https://github.com/amazinglisa/vue-webpack4-demo)

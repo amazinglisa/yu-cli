@@ -9,7 +9,7 @@ const chalk = require('chalk')
 const symbols = require('log-symbols')
 var fs  = require('fs')
 
-program.version('1.0.0', '-v, --version')
+program.version(require('./package').version, '-v, --version')
 .command('init <name>')
 .action((name) => {
   if(!fs.existsSync(name)) {
